@@ -1,0 +1,201 @@
+website_access_category_id,product_group_id,product_group_description
+1,1,Smartphones
+2,1,Tablets
+3,1,Laptops
+4,2,Televisions
+5,2,Soundbars
+6,2,Home Theaters
+7,3,Headphones
+8,3,Speakers
+9,4,Smartwatches
+10,4,Fitness Trackers
+11,1,Drones
+12,2,Action Cameras
+13,3,Gaming Consoles
+14,3,Gaming Accessories
+15,4,Smart Home Devices
+16,4,Home Automation
+17,5,Networking Devices
+18,5,Routers
+19,6,Printers
+20,6,Scanners
+21,7,Cameras
+22,7,Lenses
+23,8,Drones
+24,8,RC Toys
+25,9,VR Headsets
+26,9,AR Glasses
+27,10,Portable Chargers
+28,10,Power Banks
+29,4,Smart Appliances
+30,4,Kitchen Gadgets
+31,4,Wearable Fitness Devices
+32,4,Smartwatches
+33,3,Audio Equipment
+34,3,DJ Gear
+35,5,Computer Accessories
+36,5,PC Components
+37,6,Wines
+38,6,Spirits
+39,6,Snacks
+40,6,Beverages
+41,7,Vitamins
+42,7,Supplements
+43,8,Outdoor Furniture
+44,8,Patio Decor
+45,8,Toys
+46,8,Games
+47,9,Jewelry
+48,9,Accessories
+49,9,Beauty Products
+50,9,Skincare
+51,3,Musical Instruments
+52,3,Audio Equipment
+53,5,School Supplies
+54,5,Office Furniture
+55,8,Pet Toys
+56,8,Pet Grooming
+57,8,Gardening Tools
+58,8,Lawn Care
+59,9,Baby Clothing
+60,9,Baby Gear
+61,10,Travel Bags
+62,10,Travel Organizers
+63,6,Printers
+64,5,Computer Parts
+65,4,Kitchen Gadgets
+66,4,Bakeware
+67,4,Exercise Equipment
+68,4,Yoga Supplies
+69,7,Cameras
+70,7,Lenses
+71,5,Auto Parts
+72,5,Car Electronics
+73,8,Painting Supplies
+74,8,Crafting Tools
+75,3,Guitars
+76,3,Drums
+77,1,Smartphones
+78,1,Tablets
+79,1,Laptops
+80,2,Televisions
+81,2,Soundbars
+82,2,Home Theaters
+83,3,Headphones
+84,3,Speakers
+85,4,Smartwatches
+86,4,Fitness Trackers
+87,8,Drones
+88,2,Action Cameras
+89,3,Gaming Consoles
+90,3,Gaming Accessories
+91,4,Smart Home Devices
+92,4,Home Automation
+93,5,Networking Devices
+94,5,Routers
+95,6,Printers
+96,6,Scanners
+97,7,Cameras
+98,7,Lenses
+99,8,Drones
+100,8,RC Toys
+101,9,VR Headsets
+102,9,AR Glasses
+103,10,Portable Chargers
+104,10,Power Banks
+105,4,Smart Appliances
+106,4,Kitchen Gadgets
+107,4,Wearable Fitness Devices
+108,4,Smartwatches
+109,3,Audio Equipment
+110,3,DJ Gear
+111,5,Computer Accessories
+112,5,PC Components
+113,6,Wines
+114,6,Spirits
+115,6,Snacks
+116,6,Beverages
+117,7,Vitamins
+118,7,Supplements
+119,8,Outdoor Furniture
+120,8,Patio Decor
+121,8,Toys
+122,8,Games
+123,9,Jewelry
+124,9,Accessories
+125,9,Beauty Products
+126,9,Skincare
+127,3,Musical Instruments
+128,3,Audio Equipment
+129,5,School Supplies
+130,5,Office Furniture
+131,8,Pet Toys
+132,8,Pet Grooming
+133,8,Gardening Tools
+134,8,Lawn Care
+135,9,Baby Clothing
+136,9,Baby Gear
+137,10,Travel Bags
+138,10,Travel Organizers
+139,6,Printers
+140,5,Computer Parts
+141,4,Kitchen Gadgets
+142,4,Bakeware
+143,4,Exercise Equipment
+144,4,Yoga Supplies
+145,7,Cameras
+146,7,Lenses
+147,5,Auto Parts
+148,5,Car Electronics
+149,8,Painting Supplies
+150,8,Crafting Tools
+151,3,Guitars
+152,3,Drums
+153,1,Smartphones
+154,1,Tablets
+155,1,Laptops
+156,2,Televisions
+157,2,Soundbars
+158,2,Home Theaters
+159,3,Headphones
+160,3,Speakers
+161,4,Smartwatches
+162,4,Fitness Trackers
+163,8,Drones
+164,2,Action Cameras
+165,3,Gaming Consoles
+166,3,Gaming Accessories
+167,4,Smart Home Devices
+168,4,Home Automation
+169,5,Networking Devices
+170,5,Routers
+171,6,Printers
+172,6,Scanners
+173,7,Cameras
+174,7,Lenses
+175,8,Drones
+176,8,RC Toys
+177,9,VR Headsets
+178,9,AR Glasses
+179,10,Portable Chargers
+180,10,Power Banks
+181,4,Smart Appliances
+182,4,Kitchen Gadgets
+183,4,Wearable Fitness Devices
+184,4,Smartwatches
+185,3,Audio Equipment
+186,3,DJ Gear
+187,5,Computer Accessories
+188,5,PC Components
+189,6,Wines
+190,6,Spirits
+191,6,Snacks
+192,6,Beverages
+193,7,Vitamins
+194,7,Supplements
+195,8,Outdoor Furniture
+196,8,Patio Decor
+197,8,Toys
+198,8,Games
+199,9,Jewelry
+200,9,Accessories

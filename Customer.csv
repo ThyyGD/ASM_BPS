@@ -1,0 +1,202 @@
+customer_id,customer_name,customer_email,customer_phone,customer_address,customer_city,customer_state,customer_country,customer_segment,customer_since
+1.1,John Doe,john.doe@example.com,+1 555-1234,123 Main St,New York,NY,USA,Premium,2019-01-01
+2,Jane Smith,jane.smith@example.com,+1 555-5678,456 Oak Rd,Los Angeles,CA,USA,Regular,2020-03-15
+2,Jane Smith,jane.smith@example.com,+1 555-5678,456 Oak Rd,Los Angeles,CA,USA,Regular,2020-03-15
+3
+4,Emily Brown,emily.brown@example.com,+1 555-3456,321 Pine St,Houston,TX,USA,Regular,2021-09-30
+5,David Lee,david.lee@example.com,+1 555-7890,654 Elm Blvd,Seattle,WA,USA,Premium,2017-11-20
+6,Sarah Wilson,sarah.wilson@example.com,+1 555-2345,987 Oak Dr,Miami,FL,USA,Regular,2022-04-01
+7,William Davis,william.davis@example.com,+1 555-6789,456 Maple Rd,Atlanta,GA,USA,Premium,2019-06-15
+8,Olivia Martinez,olivia.martinez@example.com,+1 555-0123,789 Pine Ave,Denver,CO,USA,Regular,2020-11-01
+9,Daniel Hernandez,daniel.hernandez@example.com,+1 555-4567,321 Elm St,Phoenix,AZ,USA,Premium,2018-03-01
+10,Jessica Gonzalez,jessica.gonzalez@example.com,+1 555-8901,654 Oak Blvd,Portland,OR,USA,Regular,2021-05-01
+11,Alexander Ramirez,alexander.ramirez@example.com,+1 555-2345,987 Maple Ave,Sacramento,CA,USA,Premium,2017-09-15
+12,Sophia Diaz,sophia.diaz@example.com,+1 555-6789,456 Pine Dr,Nashville,TN,USA,Regular,2022-01-01
+13,Jacob Reyes,jacob.reyes@example.com,+1 555-0123,789 Elm Rd,Las Vegas,NV,USA,Premium,2019-08-01
+14,Ava Morales,ava.morales@example.com,+1 555-4567,321 Oak St,New Orleans,LA,USA,Regular,2020-03-15
+15,Jacob Garcia,jacob.garcia@example.com,+1 555-8901,654 Maple Blvd,Dallas,TX,USA,Premium,2018-11-01
+16,Isabella Sanchez,isabella.sanchez@example.com,+1 555-2345,987 Pine Ave,Minneapolis,MN,USA,Regular,2021-02-01
+17,Liam Gutierrez,liam.gutierrez@example.com,+1 555-6789,456 Elm Dr,Tampa,FL,USA,Premium,2017-06-15
+18,Mia Torres,mia.torres@example.com,+1 555-0123,789 Oak Rd,San Antonio,TX,USA,Regular,2022-08-01
+19,Lucas Jimenez,lucas.jimenez@example.com,+1 555-4567,321 Maple St,San Diego,CA,USA,Premium,2019-03-15
+20,Emma Rojas,emma.rojas@example.com,+1 555-8901,654 Pine Blvd,Austin,TX,USA,Regular,2020-09-01
+21,Elizabeth Soto,elizabeth.soto@example.com,+1 555-2222,159 Elm St,Boston,MA,USA,Premium,2018-02-01
+22,Ethan Castillo,ethan.castillo@example.com,+1 555-3333,357 Oak Ave,Philadelphia,PA,USA,Regular,2021-04-01
+23,Isabella Moreno,isabella.moreno@example.com,+1 555-4444,951 Pine Rd,Washington,DC,USA,Premium,2019-09-01
+24,Jayden Flores,jayden.flores@example.com,+1 555-5555,753 Maple Blvd,San Francisco,CA,USA,Regular,2020-06-01
+25,Mia Ortiz,mia.ortiz@example.com,+1 555-6666,159 Elm Dr,Detroit,MI,USA,Premium,2017-12-01
+26,Lucas Fuentes,lucas.fuentes@example.com,+1 555-7777,357 Oak St,Charlotte,NC,USA,Regular,2022-03-01
+27,Emma Vargas,emma.vargas@example.com,+1 555-8888,951 Pine Ave,Las Vegas,NV,USA,Premium,2018-08-01
+28,Liam Ramos,liam.ramos@example.com,+1 555-9999,753 Maple Rd,Memphis,TN,USA,Regular,2021-01-01
+29,Ava Diaz,ava.diaz@example.com,+1 555-1010,159 Elm Blvd,Milwaukee,WI,USA,Premium,2019-05-01
+30,Jacob Montes,jacob.montes@example.com,+1 555-1111,357 Oak Dr,Oklahoma City,OK,USA,Regular,2020-10-01
+31,Isabella Reyes,isabella.reyes@example.com,+1 555-2222,951 Pine St,Louisville,KY,USA,Premium,2017-07-01
+32,Ethan Sosa,ethan.sosa@example.com,+1 555-3333,753 Maple Ave,Fresno,CA,USA,Regular,2022-02-01
+33,Mia Mendoza,mia.mendoza@example.com,+1 555-4444,159 Elm Rd,Albuquerque,NM,USA,Premium,2018-12-01
+34,Lucas Delgado,lucas.delgado@example.com,+1 555-5555,357 Oak Blvd,Tucson,AZ,USA,Regular,2021-07-01
+35,Emma Perez,emma.perez@example.com,+1 555-6666,951 Pine Dr,Omaha,NE,USA,Premium,2019-01-01
+36,Liam Ramirez,liam.ramirez@example.com,+1 555-7777,753 Maple St,Virginia Beach,VA,USA,Regular,2020-08-01
+37,Ava Alvarez,ava.alvarez@example.com,+1 555-8888,159 Elm Ave,El Paso,TX,USA,Premium,2017-10-01
+38,Jacob Vega,jacob.vega@example.com,+1 555-9999,357 Oak Rd,Raleigh,NC,USA,Regular,2022-05-01
+39,Isabella Solis,isabella.solis@example.com,+1 555-1010,951 Pine Blvd,Tulsa,OK,USA,Premium,2018-04-01
+40,Ethan Herrera,ethan.herrera@example.com,+1 555-1111,753 Maple Dr,Anaheim,CA,USA,Regular,2021-11-01
+41,Avery Rojas,avery.rojas@example.com,+1 555-6565,246 Oak Dr,Arlington,TX,USA,Regular,2022-06-01
+42,Alexander Sanchez,alexander.sanchez@example.com,+1 555-7676,369 Elm Rd,Corpus Christi,TX,USA,Premium,2017-09-01
+43,Isabella Vega,isabella.vega@example.com,+1 555-8787,159 Pine St,Plano,TX,USA,Regular,2020-01-01
+44,Michael Herrera,michael.herrera@example.com,+1 555-9898,753 Maple Ave,Garland,TX,USA,Premium,2018-04-01
+45,Olivia Morales,olivia.morales@example.com,+1 555-0909,246 Oak Blvd,Irving,TX,USA,Regular,2021-12-01
+46,Ethan Castaneda,ethan.castaneda@example.com,+1 555-1010,369 Elm Dr,Brownsville,TX,USA,Premium,2019-07-01
+47,Ava Zavala,ava.zavala@example.com,+1 555-1111,159 Pine Rd,Laredo,TX,USA,Regular,2022-11-01
+48,Jacob Espinoza,jacob.espinoza@example.com,+1 555-2222,753 Maple St,Lubbock,TX,USA,Premium,2018-01-01
+49,Emma Reyna,emma.reyna@example.com,+1 555-3333,246 Oak Ave,Amarillo,TX,USA,Regular,2021-03-01
+50,Liam Cordova,liam.cordova@example.com,+1 555-4444,369 Elm Blvd,Abilene,TX,USA,Premium,2019-10-01
+51,Isabella Salazar,isabella.salazar@example.com,+1 555-5555,159 Pine Dr,Waco,TX,USA,Regular,2022-04-01
+52,Daniel Rocha,daniel.rocha@example.com,+1 555-6666,753 Maple Rd,Killeen,TX,USA,Premium,2018-06-01
+53,Sophia Mendez,sophia.mendez@example.com,+1 555-7777,246 Oak St,McAllen,TX,USA,Regular,2021-02-01
+54,Ethan Vargas,ethan.vargas@example.com,+1 555-8888,369 Elm Ave,Mesquite,TX,USA,Premium,2019-11-01
+55,Mia Ramos,mia.ramos@example.com,+1 555-9999,159 Pine Blvd,Carrollton,TX,USA,Regular,2022-09-01
+56,Lucas Rios,lucas.rios@example.com,+1 555-0000,753 Maple Dr,Grand Prairie,TX,USA,Premium,2018-03-01
+57,Sophia Gutierrez,sophia.gutierrez@example.com,+1 555-2121,246 Oak Rd,Austin,TX,USA,Regular,2020-05-01
+58,Daniel Jimenez,daniel.jimenez@example.com,+1 555-3232,369 Elm St,Dallas,TX,USA,Premium,2018-11-01
+59,Abigail Torres,abigail.torres@example.com,+1 555-4343,159 Pine Ave,San Antonio,TX,USA,Regular,2021-08-01
+60,Isabelle Sanchez,isabelle.sanchez@example.com,+1 555-1212,123 Oak Ln,San Diego,CA,USA,Premium,2019-06-01
+61,Andrew Diaz,andrew.diaz@example.com,+1 555-3434,456 Elm St,San Jose,CA,USA,Regular,2021-09-01
+62,Natalie Flores,natalie.flores@example.com,+1 555-5656,789 Pine Ave,Sacramento,CA,USA,Premium,2018-02-01
+63,Joshua Ramirez,joshua.ramirez@example.com,+1 555-7878,321 Maple Rd,Fresno,CA,USA,Regular,2020-11-01
+64,Isabella Moreno,isabella.moreno@example.com,+1 555-2323,654 Oak Dr,Long Beach,CA,USA,Premium,2017-05-01
+65,Ethan Gutierrez,ethan.gutierrez@example.com,+1 555-4545,987 Elm Blvd,Oakland,CA,USA,Regular,2022-01-01
+66,Olivia Mendoza,olivia.mendoza@example.com,+1 555-6767,159 Pine St,Anaheim,CA,USA,Premium,2019-03-01
+67,Alexander Gomez,alexander.gomez@example.com,+1 555-8989,753 Maple Ave,Santa Ana,CA,USA,Regular,2021-07-01
+68,Mia Vargas,mia.vargas@example.com,+1 555-2121,246 Oak Rd,Riverside,CA,USA,Premium,2018-08-01
+69,Lucas Reyes,lucas.reyes@example.com,+1 555-3434,369 Elm St,Stockton,CA,USA,Regular,2020-04-01
+70,Emma Morales,emma.morales@example.com,+1 555-5656,159 Pine Ave,Modesto,CA,USA,Premium,2017-10-01
+71,Liam Ramos,liam.ramos@example.com,+1 555-7878,753 Maple Blvd,Fremont,CA,USA,Regular,2021-12-01
+72,Sophia Santana,sophia.santana@example.com,+1 555-2323,246 Oak Dr,San Bernardino,CA,USA,Premium,2019-01-01
+73,Daniel Rojas,daniel.rojas@example.com,+1 555-4545,369 Elm Rd,Hayward,CA,USA,Regular,2022-03-01
+74,Ava Molina,ava.molina@example.com,+1 555-6767,159 Pine St,Pomona,CA,USA,Premium,2018-04-01
+75,Jacob Herrera,jacob.herrera@example.com,+1 555-8989,753 Maple Ave,Torrance,CA,USA,Regular,2021-02-01
+76,Isabella Diaz,isabella.diaz@example.com,+1 555-2121,246 Oak Blvd,Salinas,CA,USA,Premium,2019-07-01
+77,Ethan Vega,ethan.vega@example.com,+1 555-3434,369 Elm Dr,Huntington Beach,CA,USA,Regular,2020-09-01
+78,Mia Castillo,mia.castillo@example.com,+1 555-5656,159 Pine Rd,Escondido,CA,USA,Premium,2017-12-01
+79,Lucas Jimenez,lucas.jimenez@example.com,+1 555-7878,753 Maple St,Concord,CA,USA,Regular,2021-05-01
+80,William Munoz,william.munoz@example.com,+1 555-2929,456 Oak St,Seattle,WA,USA,Premium,2018-11-01
+81,Avery Guzman,avery.guzman@example.com,+1 555-4747,789 Elm Ave,Tacoma,WA,USA,Regular,2021-04-01
+82,Alexander Alvarado,alexander.alvarado@example.com,+1 555-6565,321 Pine Rd,Spokane,WA,USA,Premium,2019-08-01
+83,Olivia Moreno,olivia.moreno@example.com,+1 555-8383,654 Maple Blvd,Everett,WA,USA,Regular,2020-12-01
+84,Michael Reyes,michael.reyes@example.com,+1 555-1010,159 Oak Dr,Bellevue,WA,USA,Premium,2017-06-01
+85,Abigail Robles,abigail.robles@example.com,+1 555-3232,753 Elm St,Renton,WA,USA,Regular,2022-02-01
+86,Daniel Soto,daniel.soto@example.com,+1 555-4949,246 Pine Ave,Kent,WA,USA,Premium,2018-09-01
+87,Isabella Diaz,isabella.diaz@example.com,+1 555-6767,369 Maple Rd,Marysville,WA,USA,Regular,2021-01-01
+88,Liam Flores,liam.flores@example.com,+1 555-8585,159 Oak Blvd,Lakewood,WA,USA,Premium,2019-03-01
+89,Ava Ramirez,ava.ramirez@example.com,+1 555-2727,753 Elm Dr,Wenatchee,WA,USA,Regular,2020-07-01
+90,Jacob Delgado,jacob.delgado@example.com,+1 555-4343,246 Pine St,Pasco,WA,USA,Premium,2017-11-01
+91,Emma Salazar,emma.salazar@example.com,+1 555-6565,369 Maple Ave,Olympia,WA,USA,Regular,2021-06-01
+92,Ethan Valenzuela,ethan.valenzuela@example.com,+1 555-8181,159 Oak St,Vancouver,WA,USA,Premium,2018-12-01
+93,Sophia Cortes,sophia.cortes@example.com,+1 555-2929,753 Elm Blvd,Redmond,WA,USA,Regular,2020-02-01
+94,Daniel Ochoa,daniel.ochoa@example.com,+1 555-4747,246 Pine Rd,Bremerton,WA,USA,Premium,2019-04-01
+95,Isabella Suarez,isabella.suarez@example.com,+1 555-6565,369 Maple Dr,Yakima,WA,USA,Regular,2021-10-01
+96,Ethan Carrillo,ethan.carrillo@example.com,+1 555-8383,159 Oak Ave,Bellingham,WA,USA,Premium,2018-01-01
+97,Mia Villanueva,mia.villanueva@example.com,+1 555-1010,753 Elm St,Edmonds,WA,USA,Regular,2020-05-01
+98,Lucas Zamora,lucas.zamora@example.com,+1 555-3232,246 Pine Blvd,Walla Walla,WA,USA,Premium,2019-07-01
+99,Ava Ramos,ava.ramos@example.com,+1 555-4949,369 Maple Rd,Kennewick,WA,USA,Regular,2021-11-01
+100,Jayden Sanchez,jayden.sanchez@example.com,+1 555-3030,456 Oak Ave,Portland,OR,USA,Premium,2018-01-01
+101,Isabella Jimenez,isabella.jimenez@example.com,+1 555-4848,789 Elm St,Eugene,OR,USA,Regular,2021-05-01
+102,Lucas Gutierrez,lucas.gutierrez@example.com,+1 555-6060,321 Pine Blvd,Salem,OR,USA,Premium,2019-09-01
+103,Emma Vega,emma.vega@example.com,+1 555-7272,654 Maple Rd,Bend,OR,USA,Regular,2020-03-01
+104,Ethan Reyes,ethan.reyes@example.com,+1 555-9090,159 Oak Dr,Medford,OR,USA,Premium,2017-07-01
+105,Mia Diaz,mia.diaz@example.com,+1 555-1212,753 Elm Ave,Corvallis,OR,USA,Regular,2022-04-01
+106,Jacob Castillo,jacob.castillo@example.com,+1 555-3434,246 Pine St,Roseburg,OR,USA,Premium,2018-10-01
+107,Olivia Morales,olivia.morales@example.com,+1 555-5656,369 Maple Blvd,Grants Pass,OR,USA,Regular,2021-02-01
+108,William Ramirez,william.ramirez@example.com,+1 555-7878,159 Oak Rd,Ashland,OR,USA,Premium,2019-06-01
+109,Ava Soto,ava.soto@example.com,+1 555-2020,753 Elm Dr,Klamath Falls,OR,USA,Regular,2020-08-01
+110,Alexander Moreno,alexander.moreno@example.com,+1 555-3636,246 Pine Ave,Coos Bay,OR,USA,Premium,2017-12-01
+111,Isabella Ramos,isabella.ramos@example.com,+1 555-5858,369 Maple St,Pendleton,OR,USA,Regular,2021-07-01
+112,Liam Flores,liam.flores@example.com,+1 555-7070,159 Oak Blvd,La Grande,OR,USA,Premium,2018-04-01
+113,Sophia Diaz,sophia.diaz@example.com,+1 555-9292,753 Elm Rd,Redmond,OR,USA,Regular,2020-11-01
+114,Daniel Herrera,daniel.herrera@example.com,+1 555-1414,246 Pine Dr,Beaverton,OR,USA,Premium,2019-01-01
+115,Abigail Gomez,abigail.gomez@example.com,+1 555-3636,369 Maple Ave,Hillsboro,OR,USA,Regular,2021-09-01
+116,Michael Castaneda,michael.castaneda@example.com,+1 555-5858,159 Oak St,Milwaukie,OR,USA,Premium,2018-06-01
+117,Olivia Zavala,olivia.zavala@example.com,+1 555-7070,753 Elm Blvd,Tigard,OR,USA,Regular,2020-02-01
+118,Jacob Mendoza,jacob.mendoza@example.com,+1 555-9292,246 Pine Rd,Gresham,OR,USA,Premium,2019-03-01
+119,Emma Rojas,emma.rojas@example.com,+1 555-1414,369 Maple Dr,Oregon City,OR,USA,Regular,2021-11-01
+120,Ethan Valenzuela,ethan.valenzuela@example.com,+1 555-2525,135 Oak St,Phoenix,AZ,USA,Premium,2018-08-01
+121,Isabella Vargas,isabella.vargas@example.com,+1 555-4747,642 Elm Ave,Tucson,AZ,USA,Regular,2021-02-01
+122,William Acosta,william.acosta@example.com,+1 555-6969,279 Pine Rd,Mesa,AZ,USA,Premium,2019-11-01
+123,Mia Rocha,mia.rocha@example.com,+1 555-8181,854 Maple Blvd,Chandler,AZ,USA,Regular,2020-05-01
+124,Alexander Fonseca,alexander.fonseca@example.com,+1 555-2323,167 Oak Dr,Glendale,AZ,USA,Premium,2017-09-01
+125,Ava Santana,ava.santana@example.com,+1 555-4545,398 Elm St,Scottsdale,AZ,USA,Regular,2022-01-01
+126,Lucas Arroyo,lucas.arroyo@example.com,+1 555-6767,245 Pine Ave,Tempe,AZ,USA,Premium,2018-12-01
+127,Olivia Orozco,olivia.orozco@example.com,+1 555-8989,789 Maple Rd,Peoria,AZ,USA,Regular,2021-04-01
+128,Daniel Montes,daniel.montes@example.com,+1 555-2525,162 Oak Blvd,Surprise,AZ,USA,Premium,2019-07-01
+129,Abigail Herrera,abigail.herrera@example.com,+1 555-4747,537 Elm Dr,Yuma,AZ,USA,Regular,2020-10-01
+130,Michael Rios,michael.rios@example.com,+1 555-6969,298 Pine St,Avondale,AZ,USA,Premium,2017-03-01
+131,Emma Solis,emma.solis@example.com,+1 555-8181,741 Maple Ave,Goodyear,AZ,USA,Regular,2021-08-01
+132,Liam Aguilar,liam.aguilar@example.com,+1 555-2323,183 Oak Rd,Buckeye,AZ,USA,Premium,2018-06-01
+133,Sophia Reyes,sophia.reyes@example.com,+1 555-4545,654 Elm Blvd,Casa Grande,AZ,USA,Regular,2020-01-01
+134,Ethan Dominguez,ethan.dominguez@example.com,+1 555-6767,281 Pine Dr,Maricopa,AZ,USA,Premium,2019-02-01
+135,Isabella Pena,isabella.pena@example.com,+1 555-8989,792 Maple St,Flagstaff,AZ,USA,Regular,2021-06-01
+136,Jacob Ramos,jacob.ramos@example.com,+1 555-2525,369 Oak Ave,Glendale,AZ,USA,Premium,2018-09-01
+137,Olivia Castillo,olivia.castillo@example.com,+1 555-4747,853 Elm Rd,Peoria,AZ,USA,Regular,2020-03-01
+138,William Olvera,william.olvera@example.com,+1 555-6969,248 Pine Blvd,Chandler,AZ,USA,Premium,2019-04-01
+139,Ava Trujillo,ava.trujillo@example.com,+1 555-8181,675 Maple Dr,Tucson,AZ,USA,Regular,2021-10-01
+140,Jayden Ortiz,jayden.ortiz@example.com,+1 555-3030,159 Oak St,Las Vegas,NV,USA,Premium,2018-07-01
+141,Isabella Zamora,isabella.zamora@example.com,+1 555-4848,642 Elm Ave,Reno,NV,USA,Regular,2021-01-01
+142,Lucas Huerta,lucas.huerta@example.com,+1 555-6060,279 Pine Rd,Henderson,NV,USA,Premium,2019-05-01
+143,Emma Melendez,emma.melendez@example.com,+1 555-7272,854 Maple Blvd,Carson City,NV,USA,Regular,2020-09-01
+144,Ethan Rojas,ethan.rojas@example.com,+1 555-9090,167 Oak Dr,Sparks,NV,USA,Premium,2017-04-01
+145,Mia Colon,mia.colon@example.com,+1 555-1212,398 Elm St,North Las Vegas,NV,USA,Regular,2022-02-01
+146,Jacob Beltran,jacob.beltran@example.com,+1 555-3434,245 Pine Ave,Reno,NV,USA,Premium,2018-11-01
+147,Olivia Fernandez,olivia.fernandez@example.com,+1 555-5656,789 Maple Rd,Henderson,NV,USA,Regular,2021-03-01
+148,William Morales,william.morales@example.com,+1 555-7878,162 Oak Blvd,Carson City,NV,USA,Premium,2019-08-01
+149,Ava Vasquez,ava.vasquez@example.com,+1 555-2020,537 Elm Dr,Sparks,NV,USA,Regular,2020-06-01
+150,Alexander Montoya,alexander.montoya@example.com,+1 555-3636,298 Pine St,North Las Vegas,NV,USA,Premium,2017-02-01
+151,Isabella Castro,isabella.castro@example.com,+1 555-5858,741 Maple Ave,Las Vegas,NV,USA,Regular,2021-07-01
+152,Liam Rosales,liam.rosales@example.com,+1 555-7070,183 Oak Rd,Reno,NV,USA,Premium,2018-03-01
+153,Sophia Sosa,sophia.sosa@example.com,+1 555-9292,654 Elm Blvd,Henderson,NV,USA,Regular,2020-12-01
+154,Daniel Castillo,daniel.castillo@example.com,+1 555-1414,281 Pine Dr,Carson City,NV,USA,Premium,2019-09-01
+155,Abigail Delgado,abigail.delgado@example.com,+1 555-3636,792 Maple St,Sparks,NV,USA,Regular,2021-05-01
+156,Michael Salgado,michael.salgado@example.com,+1 555-5858,369 Oak Ave,North Las Vegas,NV,USA,Premium,2018-01-01
+157,Olivia Sandoval,olivia.sandoval@example.com,+1 555-2525,853 Elm Rd,Las Vegas,NV,USA,Regular,2020-08-01
+158,Joshua Salinas,joshua.salinas@example.com,+1 555-4747,248 Pine Blvd,Reno,NV,USA,Premium,2019-06-01
+159,Emma Mora,emma.mora@example.com,+1 555-6969,675 Maple Dr,Henderson,NV,USA,Regular,2021-11-01
+160,Sophia Ramirez,sophia.ramirez@example.com,+1 555-3030,159 Oak St,San Diego,CA,USA,Premium,2018-08-01
+161,Lucas Suarez,lucas.suarez@example.com,+1 555-4848,642 Elm Ave,Los Angeles,CA,USA,Regular,2021-02-01
+162,Abigail Gutierrez,abigail.gutierrez@example.com,+1 555-6060,279 Pine Rd,San Jose,CA,USA,Premium,2019-12-01
+163,Ethan Moreno,ethan.moreno@example.com,+1 555-7272,854 Maple Blvd,San Francisco,CA,USA,Regular,2020-06-01
+164,Isabella Diaz,isabella.diaz@example.com,+1 555-9090,167 Oak Dr,Sacramento,CA,USA,Premium,2017-10-01
+165,Jacob Reyes,jacob.reyes@example.com,+1 555-1212,398 Elm St,Long Beach,CA,USA,Regular,2022-03-01
+166,Mia Flores,mia.flores@example.com,+1 555-3434,245 Pine Ave,Oakland,CA,USA,Premium,2018-12-01
+167,Liam Serrano,liam.serrano@example.com,+1 555-5656,789 Maple Rd,Fresno,CA,USA,Regular,2021-05-01
+168,Emma Soto,emma.soto@example.com,+1 555-7878,162 Oak Blvd,San Diego,CA,USA,Premium,2019-09-01
+169,Alexander Gomez,alexander.gomez@example.com,+1 555-2020,537 Elm Dr,Los Angeles,CA,USA,Regular,2020-04-01
+170,Ava Rojas,ava.rojas@example.com,+1 555-3636,298 Pine St,San Jose,CA,USA,Premium,2017-03-01
+171,William Cardenas,william.cardenas@example.com,+1 555-5858,741 Maple Ave,San Francisco,CA,USA,Regular,2021-08-01
+172,Daniel Morales,daniel.morales@example.com,+1 555-7070,183 Oak Rd,Sacramento,CA,USA,Premium,2018-05-01
+173,Isabella Castro,isabella.castro@example.com,+1 555-9292,654 Elm Blvd,Long Beach,CA,USA,Regular,2020-01-01
+174,Jayden Jimenez,jayden.jimenez@example.com,+1 555-1414,281 Pine Dr,Oakland,CA,USA,Premium,2019-10-01
+175,Olivia Aguirre,olivia.aguirre@example.com,+1 555-3636,792 Maple St,Fresno,CA,USA,Regular,2021-06-01
+176,Michael Gonzalez,michael.gonzalez@example.com,+1 555-5858,369 Oak Ave,San Diego,CA,USA,Premium,2018-02-01
+177,Abigail Castillo,abigail.castillo@example.com,+1 555-2525,853 Elm Rd,Los Angeles,CA,USA,Regular,2020-09-01
+178,Joshua Ramos,joshua.ramos@example.com,+1 555-4747,248 Pine Blvd,San Jose,CA,USA,Premium,2019-07-01
+179,Emma Vega,emma.vega@example.com,+1 555-6969,675 Maple Dr,San Francisco,CA,USA,Regular,2021-12-01
+180,Isabella Sanchez,isabella.sanchez@example.com,+1 555-3030,159 Oak St,Seattle,WA,USA,Premium,2018-09-01
+181,Ethan Hernandez,ethan.hernandez@example.com,+1 555-4848,642 Elm Ave,Spokane,WA,USA,Regular,2021-03-01
+182,Mia Mendoza,mia.mendoza@example.com,+1 555-6060,279 Pine Rd,Tacoma,WA,USA,Premium,2019-11-01
+183,Jacob Morales,jacob.morales@example.com,+1 555-7272,854 Maple Blvd,Vancouver,WA,USA,Regular,2020-07-01
+184,Olivia Ortiz,olivia.ortiz@example.com,+1 555-9090,167 Oak Dr,Olympia,WA,USA,Premium,2017-11-01
+185,William Diaz,william.diaz@example.com,+1 555-1212,398 Elm St,Bellevue,WA,USA,Regular,2022-04-01
+186,Ava Ramirez,ava.ramirez@example.com,+1 555-3434,245 Pine Ave,Everett,WA,USA,Premium,2019-01-01
+187,Alexander Gutierrez,alexander.gutierrez@example.com,+1 555-5656,789 Maple Rd,Kent,WA,USA,Regular,2021-06-01
+188,Emma Suarez,emma.suarez@example.com,+1 555-7878,162 Oak Blvd,Renton,WA,USA,Premium,2019-10-01
+189,Lucas Flores,lucas.flores@example.com,+1 555-2020,537 Elm Dr,Yakima,WA,USA,Regular,2020-05-01
+190,Abigail Reyes,abigail.reyes@example.com,+1 555-3636,298 Pine St,Bellingham,WA,USA,Premium,2017-04-01
+191,Daniel Perez,daniel.perez@example.com,+1 555-5858,741 Maple Ave,Kirkland,WA,USA,Regular,2021-09-01
+192,Sophia Castillo,sophia.castillo@example.com,+1 555-7070,183 Oak Rd,Marysville,WA,USA,Premium,2018-06-01
+193,Jayden Soto,jayden.soto@example.com,+1 555-9292,654 Elm Blvd,Puyallup,WA,USA,Regular,2020-02-01
+194,Liam Gomez,liam.gomez@example.com,+1 555-1414,281 Pine Dr,Redmond,WA,USA,Premium,2019-11-01
+195,Isabella Rojas,isabella.rojas@example.com,+1 555-3636,792 Maple St,Lakewood,WA,USA,Regular,2021-07-01
+196,Michael Jimenez,michael.jimenez@example.com,+1 555-5858,369 Oak Ave,Edmonds,WA,USA,Premium,2018-03-01
+197,Abigail Moreno,abigail.moreno@example.com,+1 555-2525,853 Elm Rd,Federal Way,WA,USA,Regular,2020-10-01
+198,Joshua Castro,joshua.castro@example.com,+1 555-4747,248 Pine Blvd,Walla Walla,WA,USA,Premium,2019-08-01
+199,Emma Vega,emma.vega@example.com,+1 555-6969,675 Maple Dr,Bremerton,WA,USA,Regular,2021-01-01
+200,Sophia Fuentes,sophia.fuentes@example.com,+1 555-8181,321 Oak St,Olympia,WA,USA,Premium,2022-12-01
